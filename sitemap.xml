@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/tags/ava/</loc>
+    <loc>https://bynaki.github.io/tags/ava/</loc>
     <lastmod>2021-07-07T17:32:43+09:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/ava.debugging-vscode/</loc>
+    <loc>https://bynaki.github.io/posts/ava.debugging-vscode/</loc>
     <lastmod>2021-07-07T17:32:43+09:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/debug/</loc>
+    <loc>https://bynaki.github.io/tags/debug/</loc>
     <lastmod>2021-07-07T17:32:43+09:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://bynaki.github.io/</loc>
     <lastmod>2021-07-07T17:32:43+09:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>https://bynaki.github.io/posts/</loc>
     <lastmod>2021-07-07T17:32:43+09:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://bynaki.github.io/tags/</loc>
     <lastmod>2021-07-07T17:32:43+09:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/first/</loc>
+    <loc>https://bynaki.github.io/tags/first/</loc>
     <lastmod>2021-07-07T01:20:44+09:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/my-first-post/</loc>
+    <loc>https://bynaki.github.io/posts/my-first-post/</loc>
     <lastmod>2021-07-07T01:20:44+09:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://bynaki.github.io/categories/</loc>
   </url><url>
-    <loc>https://examplesite.com/search/</loc>
+    <loc>https://bynaki.github.io/search/</loc>
   </url>
 </urlset>

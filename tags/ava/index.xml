@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ava on Paran.Blue</title>
-    <link>https://examplesite.com/tags/ava/</link>
+    <link>https://bynaki.github.io/tags/ava/</link>
     <description>Recent content in ava on Paran.Blue</description>
     <image>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 Jul 2021 17:32:43 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/ava/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jul 2021 17:32:43 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/ava/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ava :: Debugging tests with Visual Studio Code</title>
-      <link>https://examplesite.com/posts/ava.debugging-vscode/</link>
+      <link>https://bynaki.github.io/posts/ava.debugging-vscode/</link>
       <pubDate>Wed, 07 Jul 2021 17:32:43 +0900</pubDate>
       
-      <guid>https://examplesite.com/posts/ava.debugging-vscode/</guid>
+      <guid>https://bynaki.github.io/posts/ava.debugging-vscode/</guid>
       <description>Debugging tests with Visual Studio Code You can debug your tests using Visual Studio Code.
 Debugging with the debug terminal You can use VS Code&amp;rsquo;s “JavaScript Debug Terminal” to automatically debug AVA run on the command-line.
  From the Command Palette (F1or command + shift + p/ control + shift + p), run Debug: Create JavaScript Debug Terminal Run npx ava in the terminal  Creating a launch configuration Alternatively you can create a launch configuration, which makes it easier to debug individual test files.</description>
