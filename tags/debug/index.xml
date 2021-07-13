@@ -16,7 +16,8 @@
       <pubDate>Wed, 07 Jul 2021 17:32:43 +0900</pubDate>
       
       <guid>https://bynaki.github.io/posts/ava.debugging-vscode/</guid>
-      <description>Debugging tests with Visual Studio Code You can debug your tests using Visual Studio Code.
+      <description>Debugging tests with Visual Studio Code
+You can debug your tests using Visual Studio Code.
 Debugging with the debug terminal You can use VS Code&amp;rsquo;s “JavaScript Debug Terminal” to automatically debug AVA run on the command-line.
  From the Command Palette (F1or command + shift + p/ control + shift + p), run Debug: Create JavaScript Debug Terminal Run npx ava in the terminal  Creating a launch configuration Alternatively you can create a launch configuration, which makes it easier to debug individual test files.</description>
     </item>

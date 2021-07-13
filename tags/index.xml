@@ -9,7 +9,61 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 Jul 2021 17:32:43 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jul 2021 23:25:02 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://bynaki.github.io/tags/hugo/</link>
+      <pubDate>Tue, 13 Jul 2021 23:25:02 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quickstart</title>
+      <link>https://bynaki.github.io/tags/quickstart/</link>
+      <pubDate>Tue, 13 Jul 2021 23:25:02 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/quickstart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://bynaki.github.io/tags/markdown/</link>
+      <pubDate>Tue, 13 Jul 2021 22:58:56 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://bynaki.github.io/tags/syntax/</link>
+      <pubDate>Tue, 13 Jul 2021 22:58:56 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://bynaki.github.io/tags/git/</link>
+      <pubDate>Tue, 13 Jul 2021 22:02:06 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>submodule</title>
+      <link>https://bynaki.github.io/tags/submodule/</link>
+      <pubDate>Tue, 13 Jul 2021 22:02:06 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/submodule/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ava</title>
       <link>https://bynaki.github.io/tags/ava/</link>
@@ -25,15 +79,6 @@
       <pubDate>Wed, 07 Jul 2021 17:32:43 +0900</pubDate>
       
       <guid>https://bynaki.github.io/tags/debug/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>first</title>
-      <link>https://bynaki.github.io/tags/first/</link>
-      <pubDate>Wed, 07 Jul 2021 01:20:44 +0900</pubDate>
-      
-      <guid>https://bynaki.github.io/tags/first/</guid>
       <description></description>
     </item>
     

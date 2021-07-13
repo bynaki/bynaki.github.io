@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Markdown on Paran.Blue</title>
+    <link>https://bynaki.github.io/categories/markdown/</link>
+    <description>Recent content in Markdown on Paran.Blue</description>
+    <image>
+      <url>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 13 Jul 2021 22:58:56 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown :: Syntax</title>
+      <link>https://bynaki.github.io/posts/markdown.syntax/</link>
+      <pubDate>Tue, 13 Jul 2021 22:58:56 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/markdown.syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
