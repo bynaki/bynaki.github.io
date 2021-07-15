@@ -9,7 +9,43 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Jul 2021 23:25:02 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 23:38:46 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>css</title>
+      <link>https://bynaki.github.io/tags/css/</link>
+      <pubDate>Thu, 15 Jul 2021 23:38:46 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>font-face</title>
+      <link>https://bynaki.github.io/tags/font-face/</link>
+      <pubDate>Thu, 15 Jul 2021 23:38:46 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/font-face/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebFont</title>
+      <link>https://bynaki.github.io/tags/webfont/</link>
+      <pubDate>Thu, 15 Jul 2021 23:38:46 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/webfont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hammerspoon</title>
+      <link>https://bynaki.github.io/tags/hammerspoon/</link>
+      <pubDate>Wed, 14 Jul 2021 19:52:16 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/hammerspoon/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hugo</title>
       <link>https://bynaki.github.io/tags/hugo/</link>

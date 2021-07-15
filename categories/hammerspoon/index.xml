@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hammerspoon on Paran.Blue</title>
+    <link>https://bynaki.github.io/categories/hammerspoon/</link>
+    <description>Recent content in hammerspoon on Paran.Blue</description>
+    <image>
+      <url>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 14 Jul 2021 19:52:16 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/categories/hammerspoon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hammerspoon</title>
+      <link>https://bynaki.github.io/posts/hammerspoon/</link>
+      <pubDate>Wed, 14 Jul 2021 19:52:16 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/hammerspoon/</guid>
+      <description>hammerspoon은 macOS에서만 돌아가는 자동화 툴이다. Lua를 내장하고 있다. 마음에 든다.  What is Hammerspoon? This is a tool for powerful automation of OS X. At its core, Hammerspoon is just a bridge between the operating system and a Lua scripting engine.
+What gives Hammerspoon its power is a set of extensions that expose specific pieces of system functionality, to the user. With these, you can write Lua scripts to control many aspects of your OS X environment.</description>
+    </item>
+    
+  </channel>
+</rss>

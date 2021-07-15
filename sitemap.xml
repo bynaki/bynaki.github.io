@@ -3,7 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bynaki.github.io/categories/</loc>
-    <lastmod>2021-07-13T23:25:02+09:00</lastmod>
+    <lastmod>2021-07-15T23:38:46+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/css/</loc>
+    <lastmod>2021-07-15T23:38:46+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/categories/css/</loc>
+    <lastmod>2021-07-15T23:38:46+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/posts/css.font-face/</loc>
+    <lastmod>2021-07-15T23:38:46+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/font-face/</loc>
+    <lastmod>2021-07-15T23:38:46+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/</loc>
+    <lastmod>2021-07-15T23:38:46+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/posts/</loc>
+    <lastmod>2021-07-15T23:38:46+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/</loc>
+    <lastmod>2021-07-15T23:38:46+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/webfont/</loc>
+    <lastmod>2021-07-15T23:38:46+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/posts/hammerspoon/</loc>
+    <lastmod>2021-07-14T19:52:16+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/hammerspoon/</loc>
+    <lastmod>2021-07-14T19:52:16+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/categories/hammerspoon/</loc>
+    <lastmod>2021-07-14T19:52:16+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/categories/hugo/</loc>
     <lastmod>2021-07-13T23:25:02+09:00</lastmod>
@@ -14,16 +47,7 @@
     <loc>https://bynaki.github.io/posts/hugo.quick-start/</loc>
     <lastmod>2021-07-13T23:25:02+09:00</lastmod>
   </url><url>
-    <loc>https://bynaki.github.io/</loc>
-    <lastmod>2021-07-13T23:25:02+09:00</lastmod>
-  </url><url>
-    <loc>https://bynaki.github.io/posts/</loc>
-    <lastmod>2021-07-13T23:25:02+09:00</lastmod>
-  </url><url>
     <loc>https://bynaki.github.io/tags/quickstart/</loc>
-    <lastmod>2021-07-13T23:25:02+09:00</lastmod>
-  </url><url>
-    <loc>https://bynaki.github.io/tags/</loc>
     <lastmod>2021-07-13T23:25:02+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/categories/markdown/</loc>

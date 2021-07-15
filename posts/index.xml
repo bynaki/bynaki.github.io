@@ -9,7 +9,28 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Jul 2021 23:25:02 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 23:38:46 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS :: Web Font (@font-face)</title>
+      <link>https://bynaki.github.io/posts/css.font-face/</link>
+      <pubDate>Thu, 15 Jul 2021 23:38:46 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/css.font-face/</guid>
+      <description>웹 폰트 또한 font-family 속성을 사용하지만, @font-face 지시어(directive)라는 CSS 명령어를 사용해서 웹 브라우저에게 해당 서체를 다운로드할 것을 알리면서 사용할 수 있습니다.
+웹 폰트를 위해 사용하는 CSS 코드는 매우 간단하며, 두 개의 CSS 명령어만이 필요합니다.
+ @font-face 지시어는 웹 브라우저에게 서체 이름과 다운받을 위치를 알려줍니다. 이 명령어의 동작 방식은 뒤에서 살펴봅니다. font-family 속성의 사용법은 위에서 언급한 일반 폰트의 사용법과 같습니다. 일단 @font-face 를 사용해 브라우저에게 서체를 다운받으라 알린 다음에는, 어느 CSS에서도 일반 폰트와 동일하게 font-family를 통해 사용할 수 있게 됩니다.</description>
+    </item>
+    
+    <item>
+      <title>Hammerspoon</title>
+      <link>https://bynaki.github.io/posts/hammerspoon/</link>
+      <pubDate>Wed, 14 Jul 2021 19:52:16 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/hammerspoon/</guid>
+      <description>hammerspoon은 macOS에서만 돌아가는 자동화 툴이다. Lua를 내장하고 있다. 마음에 든다.  What is Hammerspoon? This is a tool for powerful automation of OS X. At its core, Hammerspoon is just a bridge between the operating system and a Lua scripting engine.
+What gives Hammerspoon its power is a set of extensions that expose specific pieces of system functionality, to the user. With these, you can write Lua scripts to control many aspects of your OS X environment.</description>
+    </item>
+    
     <item>
       <title>Hugo :: Quick Start</title>
       <link>https://bynaki.github.io/posts/hugo.quick-start/</link>

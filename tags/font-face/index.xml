@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>font-face on Paran.Blue</title>
+    <link>https://bynaki.github.io/tags/font-face/</link>
+    <description>Recent content in font-face on Paran.Blue</description>
+    <image>
+      <url>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Jul 2021 23:38:46 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/font-face/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS :: Web Font (@font-face)</title>
+      <link>https://bynaki.github.io/posts/css.font-face/</link>
+      <pubDate>Thu, 15 Jul 2021 23:38:46 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/css.font-face/</guid>
+      <description>웹 폰트 또한 font-family 속성을 사용하지만, @font-face 지시어(directive)라는 CSS 명령어를 사용해서 웹 브라우저에게 해당 서체를 다운로드할 것을 알리면서 사용할 수 있습니다.
+웹 폰트를 위해 사용하는 CSS 코드는 매우 간단하며, 두 개의 CSS 명령어만이 필요합니다.
+ @font-face 지시어는 웹 브라우저에게 서체 이름과 다운받을 위치를 알려줍니다. 이 명령어의 동작 방식은 뒤에서 살펴봅니다. font-family 속성의 사용법은 위에서 언급한 일반 폰트의 사용법과 같습니다. 일단 @font-face 를 사용해 브라우저에게 서체를 다운받으라 알린 다음에는, 어느 CSS에서도 일반 폰트와 동일하게 font-family를 통해 사용할 수 있게 됩니다.</description>
+    </item>
+    
+  </channel>
+</rss>
