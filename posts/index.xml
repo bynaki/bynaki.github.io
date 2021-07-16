@@ -9,7 +9,17 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Jul 2021 23:38:46 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jul 2021 01:47:32 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git :: Default Branch를 &#39;master&#39;에서 &#39;main&#39;으로 변경</title>
+      <link>https://bynaki.github.io/posts/git.default-branch-main/</link>
+      <pubDate>Sat, 17 Jul 2021 01:47:32 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/git.default-branch-main/</guid>
+      <description>오래된 프로젝트의 기본 branch가 master라면 main으로 바꾸어 보자.
+$ git checkout master # master branch로 이동 $ git branch -m master main # 로컬에서 master 이름을 main으로 변경 $ git fetch # 서버(Github)에서 최신 커밋을 가져옴 $ git branch --unset-upstream # origin/master와 연결 제거 $ git branch -u origin/main # origin/main과 연결 $ git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main # Default branch를 origin/main으로 업데이트 git int 할때 기본 branch를 main으로 하기 위한 config 설정.</description>
+    </item>
+    
     <item>
       <title>CSS :: Web Font (@font-face)</title>
       <link>https://bynaki.github.io/posts/css.font-face/</link>

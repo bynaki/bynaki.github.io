@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bynaki.github.io/categories/</loc>
-    <lastmod>2021-07-15T23:38:46+09:00</lastmod>
+    <lastmod>2021-07-17T01:47:32+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/categories/git/</loc>
+    <lastmod>2021-07-17T01:47:32+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/git/</loc>
+    <lastmod>2021-07-17T01:47:32+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/posts/git.default-branch-main/</loc>
+    <lastmod>2021-07-17T01:47:32+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/main/</loc>
+    <lastmod>2021-07-17T01:47:32+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/</loc>
+    <lastmod>2021-07-17T01:47:32+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/posts/</loc>
+    <lastmod>2021-07-17T01:47:32+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/</loc>
+    <lastmod>2021-07-17T01:47:32+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/tags/css/</loc>
     <lastmod>2021-07-15T23:38:46+09:00</lastmod>
@@ -15,15 +36,6 @@
     <lastmod>2021-07-15T23:38:46+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/tags/font-face/</loc>
-    <lastmod>2021-07-15T23:38:46+09:00</lastmod>
-  </url><url>
-    <loc>https://bynaki.github.io/</loc>
-    <lastmod>2021-07-15T23:38:46+09:00</lastmod>
-  </url><url>
-    <loc>https://bynaki.github.io/posts/</loc>
-    <lastmod>2021-07-15T23:38:46+09:00</lastmod>
-  </url><url>
-    <loc>https://bynaki.github.io/tags/</loc>
     <lastmod>2021-07-15T23:38:46+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/tags/webfont/</loc>
@@ -61,12 +73,6 @@
   </url><url>
     <loc>https://bynaki.github.io/tags/syntax/</loc>
     <lastmod>2021-07-13T22:58:56+09:00</lastmod>
-  </url><url>
-    <loc>https://bynaki.github.io/categories/git/</loc>
-    <lastmod>2021-07-13T22:02:06+09:00</lastmod>
-  </url><url>
-    <loc>https://bynaki.github.io/tags/git/</loc>
-    <lastmod>2021-07-13T22:02:06+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/posts/git.submodule/</loc>
     <lastmod>2021-07-13T22:02:06+09:00</lastmod>
