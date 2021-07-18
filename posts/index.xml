@@ -9,7 +9,38 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 17 Jul 2021 01:47:32 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jul 2021 23:35:55 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS :: How to deploy GitHub pages with AWS Route 53 registered custom domain and force HTTPS</title>
+      <link>https://bynaki.github.io/posts/aws.route53-github/</link>
+      <pubDate>Sun, 18 Jul 2021 23:35:55 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/aws.route53-github/</guid>
+      <description>In this guide I will explain how to deploy a website to GitHub pages forcing HTTPS over a custom domain that is registered with AWS Route 53. We will set up our domain so that the www subdomain will redirect to the apex domain.
+Summary  Set up the GitHub repo Commit and push an index.html or use Jekyll Configure AWS Route 53  Step 1: Create GitHub repo and turn on GitHub Pages  If it does not exist yet, create a repository using the naming pattern your-github-username.</description>
+    </item>
+    
+    <item>
+      <title>Mac :: Take a screenshot on your Mac</title>
+      <link>https://bynaki.github.io/posts/mac.screenshot/</link>
+      <pubDate>Sun, 18 Jul 2021 23:01:41 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/mac.screenshot/</guid>
+      <description>You can capture the entire screen, a window, or just a portion of the screen.
+How to take a screenshot on your Mac  To take a screenshot, press and hold these three keys together: Shift, Command, and 3. If you see a thumbnail in the corner of your screen, click it to edit the screenshot. Or wait for the screenshot to save to your desktop.  How to capture a portion of the screen  Press and hold these three keys together: Shift, Command, and 4.</description>
+    </item>
+    
+    <item>
+      <title>Node :: Upgrading npm</title>
+      <link>https://bynaki.github.io/posts/node.upgrading-npm/</link>
+      <pubDate>Sun, 18 Jul 2021 00:34:28 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/node.upgrading-npm/</guid>
+      <description>Is there a quicker way of just updating all the dependencies, including major version changes? So, like npm update but for major version updates as well?
+Yes, there is a tool called npm-check-updates that will do this. Just run the following command:
+npx npm-check-updates -u This will update the dependencies to the latest versions (including major version changes) in the package.json file. If we are happy to go ahead with the upgrades we need to run the following command:</description>
+    </item>
+    
     <item>
       <title>Git :: Default Branch를 &#39;master&#39;에서 &#39;main&#39;으로 변경</title>
       <link>https://bynaki.github.io/posts/git.default-branch-main/</link>

@@ -2,8 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bynaki.github.io/categories/aws/</loc>
+    <lastmod>2021-07-18T23:35:55+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/aws/</loc>
+    <lastmod>2021-07-18T23:35:55+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/posts/aws.route53-github/</loc>
+    <lastmod>2021-07-18T23:35:55+09:00</lastmod>
+  </url><url>
     <loc>https://bynaki.github.io/categories/</loc>
-    <lastmod>2021-07-17T01:47:32+09:00</lastmod>
+    <lastmod>2021-07-18T23:35:55+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/githubpages/</loc>
+    <lastmod>2021-07-18T23:35:55+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/</loc>
+    <lastmod>2021-07-18T23:35:55+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/posts/</loc>
+    <lastmod>2021-07-18T23:35:55+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/</loc>
+    <lastmod>2021-07-18T23:35:55+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/categories/mac/</loc>
+    <lastmod>2021-07-18T23:01:41+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/mac/</loc>
+    <lastmod>2021-07-18T23:01:41+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/posts/mac.screenshot/</loc>
+    <lastmod>2021-07-18T23:01:41+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/screenshot/</loc>
+    <lastmod>2021-07-18T23:01:41+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/node/</loc>
+    <lastmod>2021-07-18T00:34:28+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/posts/node.upgrading-npm/</loc>
+    <lastmod>2021-07-18T00:34:28+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/categories/node.js/</loc>
+    <lastmod>2021-07-18T00:34:28+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/tags/npm/</loc>
+    <lastmod>2021-07-18T00:34:28+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/categories/git/</loc>
     <lastmod>2021-07-17T01:47:32+09:00</lastmod>
@@ -17,19 +62,10 @@
     <loc>https://bynaki.github.io/tags/main/</loc>
     <lastmod>2021-07-17T01:47:32+09:00</lastmod>
   </url><url>
-    <loc>https://bynaki.github.io/</loc>
-    <lastmod>2021-07-17T01:47:32+09:00</lastmod>
-  </url><url>
-    <loc>https://bynaki.github.io/posts/</loc>
-    <lastmod>2021-07-17T01:47:32+09:00</lastmod>
-  </url><url>
-    <loc>https://bynaki.github.io/tags/</loc>
-    <lastmod>2021-07-17T01:47:32+09:00</lastmod>
-  </url><url>
-    <loc>https://bynaki.github.io/tags/css/</loc>
+    <loc>https://bynaki.github.io/categories/css/</loc>
     <lastmod>2021-07-15T23:38:46+09:00</lastmod>
   </url><url>
-    <loc>https://bynaki.github.io/categories/css/</loc>
+    <loc>https://bynaki.github.io/tags/css/</loc>
     <lastmod>2021-07-15T23:38:46+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/posts/css.font-face/</loc>
@@ -41,13 +77,13 @@
     <loc>https://bynaki.github.io/tags/webfont/</loc>
     <lastmod>2021-07-15T23:38:46+09:00</lastmod>
   </url><url>
+    <loc>https://bynaki.github.io/categories/hammerspoon/</loc>
+    <lastmod>2021-07-14T19:52:16+09:00</lastmod>
+  </url><url>
     <loc>https://bynaki.github.io/posts/hammerspoon/</loc>
     <lastmod>2021-07-14T19:52:16+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/tags/hammerspoon/</loc>
-    <lastmod>2021-07-14T19:52:16+09:00</lastmod>
-  </url><url>
-    <loc>https://bynaki.github.io/categories/hammerspoon/</loc>
     <lastmod>2021-07-14T19:52:16+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/categories/hugo/</loc>
