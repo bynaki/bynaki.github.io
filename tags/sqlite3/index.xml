@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>node on Paran.Blue</title>
-    <link>https://bynaki.github.io/tags/node/</link>
-    <description>Recent content in node on Paran.Blue</description>
+    <title>sqlite3 on Paran.Blue</title>
+    <link>https://bynaki.github.io/tags/sqlite3/</link>
+    <description>Recent content in sqlite3 on Paran.Blue</description>
     <image>
       <url>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 22 Jul 2021 00:31:40 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jul 2021 00:31:40 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/sqlite3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Node :: Connecting To SQLite Database Using Node.js</title>
       <link>https://bynaki.github.io/posts/node.connecting-sqlite/</link>
@@ -20,17 +20,6 @@
 Installing sqlite3 module To interact with the SQLite database, you need to download and install sqlite3 module. You can use npm to do so using the following command:
 &amp;gt; npm install sqlite3 After installing the sqlite3 module, you are ready to connect to a SQLite database from a Node.js application.
 @types도 같이 깔자.</description>
-    </item>
-    
-    <item>
-      <title>Node :: Upgrading npm</title>
-      <link>https://bynaki.github.io/posts/node.upgrading-npm/</link>
-      <pubDate>Sun, 18 Jul 2021 00:34:28 +0900</pubDate>
-      
-      <guid>https://bynaki.github.io/posts/node.upgrading-npm/</guid>
-      <description>Is there a quicker way of just updating all the dependencies, including major version changes? So, like npm update but for major version updates as well?
-Yes, there is a tool called npm-check-updates that will do this. Just run the following command:
-npx npm-check-updates -u This will update the dependencies to the latest versions (including major version changes) in the package.json file. If we are happy to go ahead with the upgrades we need to run the following command:</description>
     </item>
     
   </channel>

@@ -9,7 +9,19 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 18 Jul 2021 23:35:55 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jul 2021 00:31:40 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Node :: Connecting To SQLite Database Using Node.js</title>
+      <link>https://bynaki.github.io/posts/node.connecting-sqlite/</link>
+      <pubDate>Thu, 22 Jul 2021 00:31:40 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/node.connecting-sqlite/</guid>
+      <description>Summary: in this tutorial, you will learn how to connect to an SQLite database from Node.js applications.
+Installing sqlite3 module To interact with the SQLite database, you need to download and install sqlite3 module. You can use npm to do so using the following command:
+&amp;gt; npm install sqlite3 After installing the sqlite3 module, you are ready to connect to a SQLite database from a Node.js application.
+@types도 같이 깔자.</description>
+    </item>
+    
     <item>
       <title>AWS :: How to deploy GitHub pages with AWS Route 53 registered custom domain and force HTTPS</title>
       <link>https://bynaki.github.io/posts/aws.route53-github/</link>
