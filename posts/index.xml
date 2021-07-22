@@ -9,7 +9,18 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 22 Jul 2021 00:31:40 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jul 2021 00:21:52 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Node :: Querying Data in SQLite Database from Node.js Applications</title>
+      <link>https://bynaki.github.io/posts/node.querying-sqlite/</link>
+      <pubDate>Fri, 23 Jul 2021 00:21:52 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/node.querying-sqlite/</guid>
+      <description>Summary: in this tutorial, you will learn how to query data from the SQLite database from a Node.js application using sqlite3 API.
+To query data in SQLite database from a Node.js application, you use these steps:
+ Open a database connection. Execute a SELECT statement and process the result set. Close the database connection.  The sqlite3 module provides you with some methods for querying data such as all(), each() and get().</description>
+    </item>
+    
     <item>
       <title>Node :: Connecting To SQLite Database Using Node.js</title>
       <link>https://bynaki.github.io/posts/node.connecting-sqlite/</link>
