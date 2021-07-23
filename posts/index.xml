@@ -9,7 +9,19 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 23 Jul 2021 00:21:52 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jul 2021 01:22:48 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Node :: Controlling the Execution Flow of Statements</title>
+      <link>https://bynaki.github.io/posts/node.controlling-flow-sqlite/</link>
+      <pubDate>Sat, 24 Jul 2021 01:22:48 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/node.controlling-flow-sqlite/</guid>
+      <description>Summary: in this tutorial, you will learn how to control the execution flow of statements.
+The sqlite3 module provides you with two methods for controlling the execution flow of statements. The serialize() method allows you to execute statements in serialized mode, while the parallelize() method executes the statements in parallel.
+Let’s look into each method in detail to understand how it works.
+Executing statement in serialized mode with Database.serialize The serialize() method puts the execution mode into serialized mode.</description>
+    </item>
+    
     <item>
       <title>Node :: Querying Data in SQLite Database from Node.js Applications</title>
       <link>https://bynaki.github.io/posts/node.querying-sqlite/</link>

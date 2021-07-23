@@ -3,27 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bynaki.github.io/categories/</loc>
-    <lastmod>2021-07-23T00:21:52+09:00</lastmod>
+    <lastmod>2021-07-24T01:22:48+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/categories/node/</loc>
-    <lastmod>2021-07-23T00:21:52+09:00</lastmod>
+    <lastmod>2021-07-24T01:22:48+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/tags/node/</loc>
-    <lastmod>2021-07-23T00:21:52+09:00</lastmod>
+    <lastmod>2021-07-24T01:22:48+09:00</lastmod>
   </url><url>
-    <loc>https://bynaki.github.io/posts/node.querying-sqlite/</loc>
-    <lastmod>2021-07-23T00:21:52+09:00</lastmod>
+    <loc>https://bynaki.github.io/posts/node.controlling-flow-sqlite/</loc>
+    <lastmod>2021-07-24T01:22:48+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/</loc>
-    <lastmod>2021-07-23T00:21:52+09:00</lastmod>
+    <lastmod>2021-07-24T01:22:48+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/posts/</loc>
-    <lastmod>2021-07-23T00:21:52+09:00</lastmod>
+    <lastmod>2021-07-24T01:22:48+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/tags/sqlite3/</loc>
-    <lastmod>2021-07-23T00:21:52+09:00</lastmod>
+    <lastmod>2021-07-24T01:22:48+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/tags/</loc>
+    <lastmod>2021-07-24T01:22:48+09:00</lastmod>
+  </url><url>
+    <loc>https://bynaki.github.io/posts/node.querying-sqlite/</loc>
     <lastmod>2021-07-23T00:21:52+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/posts/node.connecting-sqlite/</loc>
@@ -54,9 +57,6 @@
     <lastmod>2021-07-18T23:01:41+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/posts/node.upgrading-npm/</loc>
-    <lastmod>2021-07-18T00:34:28+09:00</lastmod>
-  </url><url>
-    <loc>https://bynaki.github.io/categories/node.js/</loc>
     <lastmod>2021-07-18T00:34:28+09:00</lastmod>
   </url><url>
     <loc>https://bynaki.github.io/tags/npm/</loc>

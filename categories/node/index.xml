@@ -9,7 +9,19 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 23 Jul 2021 00:21:52 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/categories/node/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jul 2021 01:22:48 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/categories/node/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Node :: Controlling the Execution Flow of Statements</title>
+      <link>https://bynaki.github.io/posts/node.controlling-flow-sqlite/</link>
+      <pubDate>Sat, 24 Jul 2021 01:22:48 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/node.controlling-flow-sqlite/</guid>
+      <description>Summary: in this tutorial, you will learn how to control the execution flow of statements.
+The sqlite3 module provides you with two methods for controlling the execution flow of statements. The serialize() method allows you to execute statements in serialized mode, while the parallelize() method executes the statements in parallel.
+Let’s look into each method in detail to understand how it works.
+Executing statement in serialized mode with Database.serialize The serialize() method puts the execution mode into serialized mode.</description>
+    </item>
+    
     <item>
       <title>Node :: Querying Data in SQLite Database from Node.js Applications</title>
       <link>https://bynaki.github.io/posts/node.querying-sqlite/</link>
@@ -31,6 +43,17 @@ To query data in SQLite database from a Node.js application, you use these steps
 Installing sqlite3 module To interact with the SQLite database, you need to download and install sqlite3 module. You can use npm to do so using the following command:
 &amp;gt; npm install sqlite3 After installing the sqlite3 module, you are ready to connect to a SQLite database from a Node.js application.
 @types도 같이 깔자.</description>
+    </item>
+    
+    <item>
+      <title>Node :: Upgrading npm</title>
+      <link>https://bynaki.github.io/posts/node.upgrading-npm/</link>
+      <pubDate>Sun, 18 Jul 2021 00:34:28 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/node.upgrading-npm/</guid>
+      <description>Is there a quicker way of just updating all the dependencies, including major version changes? So, like npm update but for major version updates as well?
+Yes, there is a tool called npm-check-updates that will do this. Just run the following command:
+npx npm-check-updates -u This will update the dependencies to the latest versions (including major version changes) in the package.json file. If we are happy to go ahead with the upgrades we need to run the following command:</description>
     </item>
     
   </channel>
