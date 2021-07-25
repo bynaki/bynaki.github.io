@@ -9,7 +9,43 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 24 Jul 2021 01:22:48 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jul 2021 20:19:44 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Node :: Deleting Data in SQLite Database from a Node.js Application</title>
+      <link>https://bynaki.github.io/posts/node.delete-sqlite/</link>
+      <pubDate>Sun, 25 Jul 2021 20:19:44 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/node.delete-sqlite/</guid>
+      <description>Summary: in this tutorial, you will learn how to delete data in the SQLite database from a Node.js application.
+To delete data in the SQLite database from a Node.js application, you use the following steps:
+ Open a database connection. Execute a DELETE statement. Close the database connection.  For the demonstration, we will use the langs table in the sample.db database that we created in the previous tutorial.
+Deleting data example To delete data from a table, you use the DELETE statement as follows:</description>
+    </item>
+    
+    <item>
+      <title>Node :: Updating Data in SQLite Database from a Node.js Application</title>
+      <link>https://bynaki.github.io/posts/node.update-sqlite/</link>
+      <pubDate>Sun, 25 Jul 2021 16:25:41 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/node.update-sqlite/</guid>
+      <description>Summary: this tutorial shows you how to update data in the SQLite database from a Node.js application.
+To update data in the SQLite database from a Node.js application, you use these steps:
+ Open a database connection. Execute an UPDATE statement. Close the database connection.  For the demonstration, we will use the langs table in the sample.db database that we created in the previous tutorial.
+Updating data example To update data in a table, you use the UPDATE statement as follows:</description>
+    </item>
+    
+    <item>
+      <title>Node :: Inserting Data Into an SQLite Table from a Node.js Application</title>
+      <link>https://bynaki.github.io/posts/node.insert-sqlite/</link>
+      <pubDate>Sun, 25 Jul 2021 00:15:38 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/node.insert-sqlite/</guid>
+      <description>Summary: in this tutorial, you will learn how to insert one or more row into an SQLite table from a Node.js application.
+To insert data into an SQLite table from a Node.js application, you follow these steps:
+ Open a database connection. Execute an INSERT statement. Close the database connection.  For the demonstration, we will create a new database named sample.db in the db folder.
+When you open a database connection in the default mode, the database is created if it does not exist.</description>
+    </item>
+    
     <item>
       <title>Node :: Controlling the Execution Flow of Statements</title>
       <link>https://bynaki.github.io/posts/node.controlling-flow-sqlite/</link>
