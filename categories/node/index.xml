@@ -9,7 +9,20 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 25 Jul 2021 20:19:44 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/categories/node/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jul 2021 00:51:46 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/categories/node/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Node :: Usage nvm</title>
+      <link>https://bynaki.github.io/posts/node.usage-nvm/</link>
+      <pubDate>Thu, 29 Jul 2021 00:51:46 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/node.usage-nvm/</guid>
+      <description>Usage NVM To download, compile, and install the latest release of node, do this:
+nvm install node # &amp;#34;node&amp;#34; is an alias for the latest version To install a specific version of node:
+nvm install 6.14.4 # or 10.10.0, 8.9.1, etc The first version installed becomes the default. New shells will start with the default version of node (e.g., nvm alias default).
+You can list available versions using ls-remote:
+nvm ls-remote And then in any new shell just use the installed version:</description>
+    </item>
+    
     <item>
       <title>Node :: Deleting Data in SQLite Database from a Node.js Application</title>
       <link>https://bynaki.github.io/posts/node.delete-sqlite/</link>

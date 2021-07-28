@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>js on Paran.Blue</title>
+    <link>https://bynaki.github.io/tags/js/</link>
+    <description>Recent content in js on Paran.Blue</description>
+    <image>
+      <url>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Jul 2021 01:18:06 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Js :: Generator</title>
+      <link>https://bynaki.github.io/posts/js.generator/</link>
+      <pubDate>Mon, 26 Jul 2021 01:18:06 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/js.generator/</guid>
+      <description>Generator **Generator** 객체는 generator function 으로부터 반환된 값이며 반복자와 반복자 프로토콜을 준수합니다.
+문법 function* gen() { yield 1; yield 2; yield 3; } var g = gen(); // &amp;#34;Generator { }&amp;#34; 메서드   Generator.prototype.next()
+yield 표현을 통해 yield된 값을 반환합니다.
+  Generator.prototype.return()
+주어진 값을 반환하고 생성기를 종료합니다.
+  Generator.prototype.throw()
+생성기로 에러를 throw합니다.
+  예시 무한 반복자 function* idMaker(){ var index = 0; while(true) yield index++; } var gen = idMaker(); // &amp;#34;Generator { }&amp;#34;  console.</description>
+    </item>
+    
+  </channel>
+</rss>

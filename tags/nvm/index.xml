@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nvm on Paran.Blue</title>
+    <link>https://bynaki.github.io/tags/nvm/</link>
+    <description>Recent content in nvm on Paran.Blue</description>
+    <image>
+      <url>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 29 Jul 2021 00:51:46 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/nvm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Node :: Usage nvm</title>
+      <link>https://bynaki.github.io/posts/node.usage-nvm/</link>
+      <pubDate>Thu, 29 Jul 2021 00:51:46 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/node.usage-nvm/</guid>
+      <description>Usage NVM To download, compile, and install the latest release of node, do this:
+nvm install node # &amp;#34;node&amp;#34; is an alias for the latest version To install a specific version of node:
+nvm install 6.14.4 # or 10.10.0, 8.9.1, etc The first version installed becomes the default. New shells will start with the default version of node (e.g., nvm alias default).
+You can list available versions using ls-remote:
+nvm ls-remote And then in any new shell just use the installed version:</description>
+    </item>
+    
+  </channel>
+</rss>
