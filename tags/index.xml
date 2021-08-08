@@ -9,7 +9,25 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 29 Jul 2021 00:51:46 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Aug 2021 12:54:59 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>js</title>
+      <link>https://bynaki.github.io/tags/js/</link>
+      <pubDate>Sun, 08 Aug 2021 12:54:59 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>promise</title>
+      <link>https://bynaki.github.io/tags/promise/</link>
+      <pubDate>Sun, 08 Aug 2021 12:54:59 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/promise/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>node</title>
       <link>https://bynaki.github.io/tags/node/</link>
@@ -25,15 +43,6 @@
       <pubDate>Thu, 29 Jul 2021 00:51:46 +0900</pubDate>
       
       <guid>https://bynaki.github.io/tags/nvm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>js</title>
-      <link>https://bynaki.github.io/tags/js/</link>
-      <pubDate>Mon, 26 Jul 2021 01:18:06 +0900</pubDate>
-      
-      <guid>https://bynaki.github.io/tags/js/</guid>
       <description></description>
     </item>
     

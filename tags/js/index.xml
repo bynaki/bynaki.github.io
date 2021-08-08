@@ -9,7 +9,18 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 26 Jul 2021 01:18:06 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Aug 2021 12:54:59 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Js :: Promise.all()</title>
+      <link>https://bynaki.github.io/posts/js.promise-all/</link>
+      <pubDate>Sun, 08 Aug 2021 12:54:59 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/js.promise-all/</guid>
+      <description>Promise.all() source:
+const times = [2000, 500, 3000, 1000] await Promise.all(times.map(async t =&amp;gt; { await stop(t) console.log(t) })) output:
+500 1000 2000 3000 </description>
+    </item>
+    
     <item>
       <title>Js :: Generator</title>
       <link>https://bynaki.github.io/posts/js.generator/</link>
