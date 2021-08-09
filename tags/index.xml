@@ -9,11 +9,20 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 08 Aug 2021 12:54:59 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 18:36:53 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>async</title>
+      <link>https://bynaki.github.io/tags/async/</link>
+      <pubDate>Mon, 09 Aug 2021 18:36:53 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/async/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>js</title>
       <link>https://bynaki.github.io/tags/js/</link>
-      <pubDate>Sun, 08 Aug 2021 12:54:59 +0900</pubDate>
+      <pubDate>Mon, 09 Aug 2021 18:36:53 +0900</pubDate>
       
       <guid>https://bynaki.github.io/tags/js/</guid>
       <description></description>
@@ -22,9 +31,18 @@
     <item>
       <title>promise</title>
       <link>https://bynaki.github.io/tags/promise/</link>
-      <pubDate>Sun, 08 Aug 2021 12:54:59 +0900</pubDate>
+      <pubDate>Mon, 09 Aug 2021 18:36:53 +0900</pubDate>
       
       <guid>https://bynaki.github.io/tags/promise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wait</title>
+      <link>https://bynaki.github.io/tags/wait/</link>
+      <pubDate>Mon, 09 Aug 2021 18:36:53 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/wait/</guid>
       <description></description>
     </item>
     

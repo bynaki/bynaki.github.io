@@ -9,7 +9,17 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 08 Aug 2021 12:54:59 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 18:36:53 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Js :: for wait...of</title>
+      <link>https://bynaki.github.io/posts/js.for-wait-of/</link>
+      <pubDate>Mon, 09 Aug 2021 18:36:53 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/js.for-wait-of/</guid>
+      <description>for await&amp;hellip;of for await...of 구문은 보통 비동기에 대응하는 열거자를 나열할 때 쓰이지만, String, Array, Array 같은 객체 (e.g., arguments or NodeList), TypedArray, Map, Set 같은 동기적으로 열거 가능한 객체 또한 가능하며, 사용자가 직접 정의한 동기 또는 비동기 객체도 나열할 수 있도록 해준다. 일반적인 for ...of 문과 마찬가지로 열거자 심볼이 정의한 속성을 실행하게 되어 열거한 값을 변수로 받아 처리한다.
+구문 for await (variable of iterable) { statement }   variable</description>
+    </item>
+    
     <item>
       <title>Js :: Promise.all()</title>
       <link>https://bynaki.github.io/posts/js.promise-all/</link>
