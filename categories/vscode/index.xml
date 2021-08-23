@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vscode on Paran.Blue</title>
+    <link>https://bynaki.github.io/categories/vscode/</link>
+    <description>Recent content in Vscode on Paran.Blue</description>
+    <image>
+      <url>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 10 Aug 2021 20:54:06 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/categories/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vscode :: Complete uninstall / remove vscode (Mac)</title>
+      <link>https://bynaki.github.io/posts/vscode.complete-uninstall/</link>
+      <pubDate>Tue, 10 Aug 2021 20:54:06 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/vscode.complete-uninstall/</guid>
+      <description>while writing go this morning, I found that the wrong code are not under lined by red line This is really difficult for me and time consuming to keep writing. After 1 hour of wasting time trying to figure out what happened, I decide to kill it all and start again. Hope this will be helpful for those who wants to complete remove vscode on their mac
+ATTENTION please write down your extension lists, and settings (JSON) because you won’t be seeing this anymore (screen shot?</description>
+    </item>
+    
+  </channel>
+</rss>

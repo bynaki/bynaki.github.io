@@ -9,22 +9,49 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 09 Aug 2021 18:36:53 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 20:28:29 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>js</title>
+      <link>https://bynaki.github.io/tags/js/</link>
+      <pubDate>Mon, 23 Aug 2021 20:28:29 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jsdoc</title>
+      <link>https://bynaki.github.io/tags/jsdoc/</link>
+      <pubDate>Mon, 23 Aug 2021 20:28:29 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/jsdoc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>async</title>
       <link>https://bynaki.github.io/tags/async/</link>
-      <pubDate>Mon, 09 Aug 2021 18:36:53 +0900</pubDate>
+      <pubDate>Mon, 16 Aug 2021 19:58:31 +0900</pubDate>
       
       <guid>https://bynaki.github.io/tags/async/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>js</title>
-      <link>https://bynaki.github.io/tags/js/</link>
-      <pubDate>Mon, 09 Aug 2021 18:36:53 +0900</pubDate>
+      <title>await</title>
+      <link>https://bynaki.github.io/tags/await/</link>
+      <pubDate>Mon, 16 Aug 2021 19:58:31 +0900</pubDate>
       
-      <guid>https://bynaki.github.io/tags/js/</guid>
+      <guid>https://bynaki.github.io/tags/await/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vscode</title>
+      <link>https://bynaki.github.io/tags/vscode/</link>
+      <pubDate>Tue, 10 Aug 2021 20:54:06 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/tags/vscode/</guid>
       <description></description>
     </item>
     
