@@ -9,7 +9,18 @@
       <link>https://bynaki.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 23 Aug 2021 20:28:29 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Nov 2021 00:12:53 +0900</lastBuildDate><atom:link href="https://bynaki.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Js.optional</title>
+      <link>https://bynaki.github.io/posts/js.optional.chaining/</link>
+      <pubDate>Sat, 13 Nov 2021 00:12:53 +0900</pubDate>
+      
+      <guid>https://bynaki.github.io/posts/js.optional.chaining/</guid>
+      <description>Optional chaining (?. 연산자) optional chaining 연산자 (?.) 는 체인의 각 참조가 유효한지 명시적으로 검증하지 않고, 연결된 객체 체인 내에 깊숙이 위치한 속성 값을 읽을 수 있다.
+?. 연산자는 . 체이닝 연산자와 유사하게 작동하지만, 만약 참조가 nullish (en-US) (null 또는 undefined)이라면, 에러가 발생하는 것 대신에 표현식의 리턴 값은 undefined로 단락된다. 함수 호출에서 사용될 때, 만약 주어진 함수가 존재하지 않는다면, undefined를 리턴한다.
+따라서 참조가 누락될 가능성이 있는 경우 연결된 속성으로 접근할 때 더 짧고 간단한 표현식이 생성된다.</description>
+    </item>
+    
     <item>
       <title>Js :: JsDoc</title>
       <link>https://bynaki.github.io/posts/js.jsdoc/</link>
