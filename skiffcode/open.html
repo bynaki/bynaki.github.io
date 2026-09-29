@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<meta name="referrer" content="no-referrer">
+<title>Skiff Code</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font: 16px/1.5 system-ui, sans-serif; max-width: 36rem; margin: 3rem auto; padding: 0 1rem; }
+  code { word-break: break-all; }
+  a.open { display: inline-block; padding: .6rem 1.2rem; border-radius: .5rem; background: #2563eb; color: #fff; text-decoration: none; }
+</style>
+</head>
+<body>
+<h1>Skiff Code</h1>
+<!--
+  Android opens this address in Skiff Code itself. This page is what shows when it did not: the app
+  is not installed, or this device has not verified the link. What follows # never left the device,
+  and nothing here sends it anywhere.
+-->
+<div id="link" hidden>
+  <p>이 링크는 Skiff Code 앱에서 열립니다.<br>This link opens in the Skiff Code app.</p>
+  <p><code id="target"></code></p>
+  <p><a class="open" id="open">Skiff Code에서 열기 / Open</a></p>
+  <p>열리지 않으면 Skiff Code가 설치되어 있지 않은 것입니다.<br>If nothing opens, Skiff Code is not installed.</p>
+</div>
+<p id="empty" hidden>열 파일이 링크에 없습니다. / The link names no file.</p>
+<script>
+  // Everything after # is the rest of a skiffcode:// link.
+  // A second # would end the intent's own data, and the app ignores it anyway.
+  const rest = location.hash.slice(1).split('#')[0];
+  if (rest) {
+    let shown = rest;
+    try { shown = decodeURI(rest); } catch (e) { /* broken percent encoding: show it as it came */ }
+    document.getElementById('target').textContent = 'skiffcode://' + shown;
+    document.getElementById('open').href =
+      'intent://' + rest + '#Intent;scheme=skiffcode;package=com.naki.skiff.code;end';
+    document.getElementById('link').hidden = false;
+  } else {
+    document.getElementById('empty').hidden = false;
+  }
+</script>
+</body>
+</html>

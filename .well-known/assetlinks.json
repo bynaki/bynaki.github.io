@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.naki.skiff.code",
+      "sha256_cert_fingerprints": [
+        "BF:C1:67:4F:4B:B0:48:44:A8:79:AF:9F:73:8F:00:05:01:71:AC:31:8E:0E:84:73:E0:B1:7F:57:DF:C4:8E:3C"
+      ]
+    }
+  }
+]
